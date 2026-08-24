@@ -103,7 +103,7 @@ class Customer {
         */
 
         virtual ~Customer() {
-        }
+        } Company facility company facility
 };
 
 
